@@ -1,0 +1,12 @@
+.container{
+    margin-top: 10px;
+}
+.itemDiv{
+    display: flex;
+    flex-direction:column;
+}
+.card{
+ display: flex;
+ width: 700px; 
+
+}
